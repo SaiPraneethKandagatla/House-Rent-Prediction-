@@ -20,7 +20,7 @@ const Footer: React.FC = () => {
               <a href="https://www.instagram.com/sai.praneeth.26?igsh=MWM4cmxxNjNkYWwwYg==" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors">
                 <Instagram size={20} />
               </a>
-              <a href="https://github.com/SaiPraneethKandagatla/House-Rent-Prediction" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors">
+              <a href="https://github.com/SaiPraneethKandagatla/House-Rent-Prediction-" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors">
                 <Github size={20} />
               </a>
               <a href="https://www.linkedin.com/in/kandagatlasaipraneeth" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors">
